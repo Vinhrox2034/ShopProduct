@@ -1,0 +1,1 @@
+execute .sql file in ssms.exe and the database will automaticly link them to java and then you can be able to run this project as well as note: " this still in progress so maybe the function might not run well and still very limit 
